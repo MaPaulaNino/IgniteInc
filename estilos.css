@@ -1,0 +1,484 @@
+* {
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#bodydatosgenerales
+{
+	font-family: arial;
+	background: url(saloon.jpg), #000;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+/* Contenedores de HISTORIA */
+.contenedor{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.principal {
+	position: relative;
+	color: #000;
+}
+
+.principal article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
+.principal article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/* Contenedores de INTRODUCCIÓN */
+.contenedordos{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.segundo {
+	position: relative;
+	color: #000;
+}
+
+.segundo article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	
+}
+
+.segundo article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/* Contenedores de ESTRUCTURA */
+.contenedortres{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.tercero{
+	position: relative;
+	color: #000;
+}
+
+.tercero article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.tercero article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+#bodydetalles{
+	font-family: arial;
+	background: url(botas.jpg), #000;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+/*PAGINA DETALLES */
+/* Contenedores de FICHA */
+.contn{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.prin{
+	position: relative;
+	color: #000;
+}
+
+.prin article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+
+.prin article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+	margin-left: 175px;
+}
+
+.prin article h2{
+	margin-left: 380px;
+}
+
+/* Contenedor PORTADA */
+.contndos{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.segundito{
+	position: relative;
+	color: #000;
+}
+
+.segundito article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.segundito article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+	margin-left: 220px;
+}
+
+.segundito article h2{
+	margin-left: 350px;
+}
+
+/* Contenedores PROCEDIMIENTO */
+.contntres{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.tercerito{
+	position: relative;
+	color: #000;
+}
+
+.tercerito article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.tercerito article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/* Contenedores REGLAS-CONFLICTO-RESULTADO*/
+.contncuatro{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.cuarto{
+	position: relative;
+	color: #000;
+}
+
+.cuarto article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.cuarto article p p p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/* Contenedores PANTALLA DE INICIO */
+.contncinco{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.cinco{
+	position: relative;
+	color: #000;
+}
+
+.cinco article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.cinco article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+	margin-left: 220px;
+}
+
+.cinco article h2{
+	margin-left: 380px;
+}
+
+/* Contenedores CONTROLES */
+.contnseis{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.seis{
+	position: relative;
+	color: #000;
+}
+
+.seis article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.seis article p #imgcontrol{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+	margin-left: 220px;
+}
+
+.seis article p #imgteclado{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+	margin-left: 175px;
+}
+
+.seis article h2{
+	margin-left: 430px;
+}
+
+.seis article p #imgteclado{
+	margin-top: 20px;
+
+}
+
+
+/* PAGINA REGALOS */
+/* Contenedores IMAGEN 1 */
+#bodyregalos{
+	
+	font-family: arial;
+	background: url(billythekid.jpg), #000;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.contnone{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.prinregalos{
+	position: relative;
+	color: #000;
+}
+
+.prinregalos article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+
+.prinregalos article h2{
+	margin-left: 400px;
+	font-size: 40px;
+}
+
+.prinregalos article a{
+		margin-left: 430px;
+		font-size: 24px;
+}
+
+.prinregalos article img{
+	margin-left: 225px;
+}
+
+/* Contenedores IMAGEN 2 */
+.contntwo{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.segregalos{
+	position: relative;
+	color: #000;
+}
+
+.segregalos article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	
+}
+
+.segregalos article img{
+	margin-left: 220px;
+}
+
+.segregalos article a{
+	margin-left: 400px;
+	font-size: 24px;
+}
+
+/* Contenedores IMAGEN 3 */
+.contnthree{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.tresregalos{
+	position: relative;
+	color: #000;
+}
+
+.tresregalos article{
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.tresregalos article img{
+		margin-left: 220px;
+}
+
+.tresregalos article a{
+	margin-left: 400px;
+	font-size: 24px;
+}
+
+/* Contenedores IMAGEN 4 */
+.contnfour{
+		width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.cuatroregalos{
+		position: relative;
+	color: #000;
+}
+
+.cuatroregalos article{
+		padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.cuatroregalos article img{
+	margin-left: 250px;
+}
+
+.cuatroregalos article a{
+	margin-left: 400px;
+	font-size: 24px;
+}
+
+/* Contenedores IMAGEN 5 */
+.contnfive{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.cincoregalos{
+	position: relative;
+	color: #000;
+}
+
+.cincoregalos article{
+		padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+}
+
+.cincoregalos article img{
+	margin-left: 180px;
+}
+
+.cincoregalos article a{
+	margin-left: 420px;
+	font-size: 24px;
+}
+
+/* Contenedores VIDEOS1*/
+.contnsiete
+{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.siete {
+	position: relative;
+	color: #000;
+}
+
+.siete article {
+padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
+.siete article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
+
+/*Contenedores VIDEOS2*/ 
+.contnocho
+{
+	width: 90%;
+	max-width:  1000px;
+	margin: auto;
+}
+
+.ocho {
+	position: relative;
+	color: #000;
+}
+
+.ocho article {
+padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
+.ocho article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-family: fantasy;
+}
